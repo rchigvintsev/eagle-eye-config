@@ -16,4 +16,7 @@ spring:
 
   zipkin.baseUrl: "http://localhost:9411"
     
-signing.key: "a48snaw1o05p7xj4"
+  cloud.config:
+    allowOverride: true
+    overrideNone: true
+    overrideSystemProperties: false

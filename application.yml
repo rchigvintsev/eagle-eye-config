@@ -20,3 +20,5 @@ spring:
     allowOverride: true
     overrideNone: true
     overrideSystemProperties: false
+
+signing.key: "a48snaw1o05p7xj4"
